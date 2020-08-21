@@ -1,6 +1,11 @@
 # quiz_master
 
-A new Flutter application.
+A simple QUIZ application designed with flutter.
+
+
+![Finished App](https://github.com/Temmytope-seun/quiz_master/blob/master/lib/screens/screen1.PNG)
+
+![Finished App](https://github.com/Temmytope-seun/quiz_master/blob/master/lib/screens/screen2.PNG)
 
 ## Getting Started
 
